@@ -6,5 +6,7 @@ Java
 
 함수형 인터페이스 API
 -------------------
-* [Function<T,R>(https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/Function.html)
-* 
+* [Function<T,R>](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/Function.html)
+* [Predicate<T>](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/Predicate.html)
+* [Consumer<T>](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/Consumer.html)
+* [Supplier<T>](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/function/Supplier.html)
