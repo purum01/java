@@ -14,4 +14,4 @@ Java
 스트림 API
 -------------------
 * [컬렉션에서 스트림 생성](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html#stream())
-* [배열에서 스트림 생성](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html#stream(double%5B%5D))
+* [배열에서 스트림 생성](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html#stream(T%5B%5D))
