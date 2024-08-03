@@ -1,0 +1,4 @@
+Line 1: Not Equal
+Line 2: Equal
+Line 3: Equal
+Line 4: Not Equal
