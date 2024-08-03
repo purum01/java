@@ -13,7 +13,7 @@ Java
 
 스트림 API
 -------------------
-*[Stream](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/Stream.html)
+* [Stream](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/Stream.html)
 * [컬렉션에서 스트림 생성 : java.util.Collection stream()](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html#stream())
 * [배열에서 스트림 생성 :  java.util.Arrays stream()](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Arrays.html#stream(T%5B%5D))
 * [가변길이 인자 스트림 생성 : java.util.stream.Stream of()](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/stream/Stream.html#of(T))
